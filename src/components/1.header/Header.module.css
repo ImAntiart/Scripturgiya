@@ -1,0 +1,10 @@
+header {
+    background-color: #222;
+    box-sizing: border-box;
+    padding: 5px;
+    text-align: left;
+    width: 100%;
+    font-size: 1.4rem;
+    box-shadow: 0px -4px 8px rgba(241, 166, 25, 0.5);
+  }
+  
